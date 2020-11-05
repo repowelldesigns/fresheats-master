@@ -1,0 +1,44 @@
+body 
+
+{background-color: #C5735B;
+    font-family: Montserrat;
+    color: brown;
+
+}
+
+
+header {
+    background-color:#EEA793;
+    }
+
+ nav {
+        background-color: #FFD0C2;
+}
+
+.button {
+    color: #ac691c !important;
+    text-transform: uppercase;
+    background: #ffffff;
+    padding: 20px;
+    border: 4px solid #ac691c !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    }
+    
+    .button:hover {
+        color: #592406 !important;
+        border-radius: 50px;
+        border-color: #592406 !important;
+        transition: all 0.3s ease 0s;
+        }
+
+section {background-color: #FFD0C2;  
+}
+
+
+footer {
+    background-color: #EEA793;
+    width: 1200px;
+    height: 50px;
+}
